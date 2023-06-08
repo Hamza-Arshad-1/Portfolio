@@ -14,6 +14,6 @@ In this project i have use CNN(Convolutional Neural Network) for predict or clas
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Hamza-Arshad-1/Portfolio/blob/main/Images/1.PNG"> **[Lahore Property Rent Prediction]()**
+<img align="left" width="250" height="150" src="https://github.com/Hamza-Arshad-1/Portfolio/blob/main/Images/1.PNG"> **[Lahore Property Rent Prediction](https://github.com/Hamza-Arshad-1/Lahore_Property_Rent_Prediction)**
 
-In this project i have use CNN(Convolutional Neural Network) for predict or classify that which type of disease is on cassava leaf and it will share show predicted disease on app interface which is built in React Native and is integrate with GCP. 
+It's a property rent prediction app for any area of lahore. Lahore property rent prediction is an efficient way to estimate the rental price of properties in Lahore, Pakistan. This prediction model is designed using advanced machine learning algorithms and data analysis techniques to provide accurate and reliable results.
