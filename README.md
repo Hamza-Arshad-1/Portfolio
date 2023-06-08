@@ -12,7 +12,7 @@ This Portfolio is a compilation of all the Data Science and Artifical Intellegen
 In this project i have use CNN(Convolutional Neural Network) for predict or classify that which type of disease is on cassava leaf and it will share show predicted disease on app interface which is built in React Native and is integrate with GCP. 
 
 
-#
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Hamza-Arshad-1/Portfolio/blob/main/Images/1.PNG"> **[Lahore Property Rent Prediction](https://github.com/Hamza-Arshad-1/Lahore_Property_Rent_Prediction)**
