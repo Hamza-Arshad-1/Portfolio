@@ -9,3 +9,4 @@ This Portfolio is a compilation of all the Data Science and Artifical Intellegen
 
 <img align="left" width="250" height="150" src="[https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg](https://github.com/Hamza-Arshad-1/Portfolio/blob/main/Images/WhatsApp%20Image%202023-05-21%20at%201.01.50%20PM.jpeg)"> **[Cassava leaf disease detection using deep neural network](https://github.com/Hamza-Arshad-1/Cassava-leaf-disease-NN-FYP)**
 
+In this project i have use CNN(Convolutional Neural Network) for predict or classify that which type of disease is on cassava leaf and it will share show predicted disease on app interface which is built in React Native and is integrate with GCP. 
