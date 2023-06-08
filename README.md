@@ -21,4 +21,4 @@ It's a property rent prediction app for any area of lahore. Lahore property rent
 
 #
 
-<img align="left" width="250" height="150" src=""> **[Lahore Property Rent Prediction](https://github.com/Hamza-Arshad-1/Lahore_Property_Rent_Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/Hamza-Arshad-1/Portfolio/blob/main/Images/graphical-user-interface-project-in-python.webp"> **[Traffic Sign Recoganization System](https://github.com/Hamza-Arshad-1/Traffic-Sign-Recogonization-Using-CNN/tree/main/Traffic%20sign%20classification)**
