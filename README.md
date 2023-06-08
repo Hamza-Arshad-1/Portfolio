@@ -22,3 +22,5 @@ It's a property rent prediction app for any area of lahore. Lahore property rent
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Hamza-Arshad-1/Portfolio/blob/main/Images/graphical-user-interface-project-in-python.webp"> **[Traffic Sign Recoganization System](https://github.com/Hamza-Arshad-1/Traffic-Sign-Recogonization-Using-CNN/tree/main/Traffic%20sign%20classification)**
+
+A Traffic Sign Recognition System is a project aimed at automatically detecting and interpreting traffic signs from images or video streams. The system utilizes computer vision techniques and machine learning algorithms to identify and classify different types of traffic signs, such as speed limits, stop signs, or yield signs. By analyzing the captured images or video frames, the system can provide real-time information about traffic signs, assisting drivers in following traffic regulations and enhancing road safety.
