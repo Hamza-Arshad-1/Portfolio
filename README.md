@@ -13,6 +13,7 @@ In this project i have use CNN(Convolutional Neural Network) for predict or clas
 
 
 #
+#
 
 <img align="left" width="250" height="150" src="https://github.com/Hamza-Arshad-1/Portfolio/blob/main/Images/1.PNG"> **[Lahore Property Rent Prediction](https://github.com/Hamza-Arshad-1/Lahore_Property_Rent_Prediction)**
 
